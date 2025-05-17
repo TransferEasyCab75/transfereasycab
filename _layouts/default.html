@@ -9,9 +9,12 @@
       <meta name="google-site-verification" content="{{ page.google_site_verification }}">
     {% endif %}
 
-    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+    <!-- Feuille de style simple, propre et responsive -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
   </head>
   <body>
-    {{ content }}
+    <main class="container">
+      {{ content }}
+    </main>
   </body>
 </html>
