@@ -2,7 +2,6 @@ title: Transfer Easy Cab – Private Transfers Blog
 description: Mini-blog SEO optimized for Paris, Disneyland and long-distance transfers
 baseurl: "/transfereasycab"
 url: "https://transfereasycab75.github.io"
-theme: minima
 
 plugins:
   - jekyll-feed
