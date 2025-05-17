@@ -1,28 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+---
+layout: default
+---
 
-    {% if page.google_site_verification %}
-      <meta name="google-site-verification" content="{{ page.google_site_verification }}">
-    {% endif %}
+{% if page.google_site_verification %}
+  <meta name="google-site-verification" content="{{ page.google_site_verification }}">
+{% endif %}
 
-    <link rel="stylesheet" href="https://unpkg.com/mvp.css" />
-  </head>
-  <body>
-    <header>
-      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-      <p>{{ site.description }}</p>
-    </header>
+<div class="home">
+  <h1 class="page-heading">{{ page.title | escape }}</h1>
 
-    <main class="home">
-      {{ content }}
-    </main>
+  {{ content }}
 
-    <footer>
-      <p>© {{ site.time | date: '%Y' }} {{ site.title }}</p>
-    </footer>
-  </body>
-</html>
+  {% if site.posts.size > 0 %}
+    <ul class="post-list">
+      {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {% endif %}
+</div>
