@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Transfer Easy Cab Blog
+google_site_verification: <meta name="google-site-verification" content="5PFTKp0-68iXrvaO4HbCW2Is6Axq-ulfkrI3c8Z6NEE" />
 ---
 
 # Welcome to Transfer Easy Cab Official Blog 🚖
