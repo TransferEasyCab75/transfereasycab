@@ -145,8 +145,7 @@ No surprises. No stress. Just a smooth **cdg to Disneyland** journey.
 
 Here’s a general breakdown of **Paris Disney transfer** rates:
 
-- **1–4 passengers**: €85 to €95
-- **5–8 passengers**: €100 to €115
+- **1–8 passengers**: €85 to €120
 - **Groups 9–16**: €180 to €210 (2 vehicles)
 - **17–45 passengers**: Contact for quote
 
@@ -168,19 +167,6 @@ Add-on services available:
 - **Hourly service** with a dedicated chauffeur
 
 If you need help building an itinerary, just ask!
-
----
-
-## Testimonials: Why Travelers Love It
-
-> “Honestly the easiest part of our trip. The driver met us inside CDG, helped with the bags, and even offered a mini-tour on the way. 10/10 service.”  
-— Sarah M., UK 🇬🇧
-
-> “Traveling with twins isn’t easy, but Transfer Easy Cab made it painless. Clean van, free baby seats, and great communication.”  
-— Miguel L., Spain 🇪🇸
-
-> “I booked the return leg to Orly as well — saved us from last-minute taxi stress.”  
-— Daria B., Poland 🇵🇱
 
 ---
 
