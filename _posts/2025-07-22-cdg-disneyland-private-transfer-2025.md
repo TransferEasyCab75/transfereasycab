@@ -97,8 +97,8 @@ Book your private ride here 👉 [https://www.transfereasycab.com](https://www.t
 
 Here’s what you can expect to pay for **CDG Disney transfers**:
 
-- **1–4 passengers**: €85–€95  
-- **5–8 passengers**: €100–€110  
+- **1–4 passengers**: €75–€85  
+- **5–8 passengers**: €85–€110  
 - **9–16 passengers**: From €180 (two vans)  
 - **Groups of 17–45**: Custom quote for private group transfers  
 
