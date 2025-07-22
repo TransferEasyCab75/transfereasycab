@@ -1,12 +1,8 @@
-title: Transfer Easy Cab – Private Transfers Blog
+  title: Transfer Easy Cab – Private Transfers Blog
 description: Private transfer guides from Paris airports to Disneyland Paris, city hotels, and long-distance destinations. Expert tips on Paris Disney transfers, airport taxi services, and private chauffeurs.
-theme: just-the-docs
-
-# URL de base pour GitHub Pages
-baseurl: "/transfereasycab75"
-url: "https://transfereasycab75.github.io" 
-
-# Activation du TOC automatique
-just_the_docs:
-  show_sidebar: true
-  heading_levels: 2,3
+theme: minima
+baseurl: "/transfereasycab"
+url: "https://transfereasycab75.github.io"  # Remplace avec ton nom d’utilisateur GitHub
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
