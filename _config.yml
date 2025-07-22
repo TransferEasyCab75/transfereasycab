@@ -4,6 +4,7 @@ theme: just-the-docs
 
 # URL de base pour GitHub Pages
 baseurl: "/transfereasycab75"
+url: "https://transfereasycab75.github.io" 
 
 # Activation du TOC automatique
 just_the_docs:
