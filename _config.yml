@@ -1,10 +1,12 @@
-title: Transfer Easy Cab – Private Transfers Blog
-description: Mini-blog SEO optimized for Paris, Disneyland and long-distance transfers
-baseurl: "/transfereasycab"
+title: "Transfer Easy Cab – Private Transfers Blog"
+description: "Discover private transfers from Paris airports to Disneyland Paris, Versailles, and more. Your guide to stress-free travel in 2025."
+theme: just-the-docs
+
 url: "https://transfereasycab75.github.io"
+baseurl: "/"
 
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-
-future: true
+# Just the Docs settings
+just_the_docs:
+  search_enabled: true
+  show_last_edit_time: false
+  show_last_edit_time_on_page: false
